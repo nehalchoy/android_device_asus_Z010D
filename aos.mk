@@ -6,7 +6,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 DEVICE_PACKAGE_OVERLAYS += device/asus/msm8916-common/overlay/lineage
 
-PRODUCT_NAME := lineage_Z010D
+PRODUCT_NAME := aos_Z010D
 PRODUCT_DEVICE := Z010D
 PRODUCT_BRAND := asus
 PRODUCT_MODEL := Zenfone Max
