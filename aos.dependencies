@@ -1,9 +1,3 @@
 [
-[
-  {
-    "repository": "TeamDarkness-Devices/proprietary_vendor_asus",
-    "target_path": "vendor/asus",
-    "branch": "n-mr2"
-  }
-]
+
 ]
